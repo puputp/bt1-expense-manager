@@ -108,7 +108,7 @@ export default function App() {
         fontSize: 26,
         color: "#1f2937"
       }}>
-        Bài kiểm tra – MSSV: DH52201247
+        Bài kiểm tra – MSSV: DH52201247 - Ca 2
       </h1>
         <header style={styles.header}>
           <div style={styles.brand}>
