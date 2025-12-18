@@ -101,6 +101,15 @@ export default function App() {
   return (
     <div style={styles.page}>
       <div style={styles.shell}>
+      <h1 style={{
+        textAlign: "center",
+        marginBottom: 20,
+        fontWeight: 900,
+        fontSize: 26,
+        color: "#1f2937"
+      }}>
+        Bài kiểm tra – MSSV: DH52201247
+      </h1>
         <header style={styles.header}>
           <div style={styles.brand}>
             <span style={styles.logo}>💸</span>
